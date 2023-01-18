@@ -1,0 +1,1 @@
+Use "expo upgrade 47" to update expo-cli from 44 to 47 as this project uses an outdated version of expo when installed with npm
